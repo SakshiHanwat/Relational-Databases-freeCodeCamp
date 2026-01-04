@@ -197,7 +197,7 @@ Relational-Databases/
 
 ## 🔗 Useful Links
 
-* freeCodeCamp Relational Databases: [https://www.freecodecamp.org/learn/relational-databases/](https://www.freecodecamp.org/learn/relational-databases/)
+* 📘 **freeCodeCamp Relational Databases Certification (Official):** [https://www.freecodecamp.org/learn/relational-databases-v9/](https://www.freecodecamp.org/learn/relational-databases-v9/)
 * PostgreSQL Docs: [https://www.postgresql.org/docs/](https://www.postgresql.org/docs/)
 
 ---
